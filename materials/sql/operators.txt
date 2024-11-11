@@ -3,6 +3,12 @@ FROM - из чего-то там
 LIMIT - ограничение вывода результата
 
 
+SELECT - ВЫБЕРИ
+* - все колонки
+from - из
+employees - таблицы с именем employees
+
+
 
 
 Основные операторы DDL (Data Definition Language):
