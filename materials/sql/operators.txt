@@ -13,6 +13,11 @@ DISTINCT убирает повторяющиеся значения
 SELECT DISTINCT city
 FROM employees;
 
+SELECT *
+FROM employees
+WHERE city = 'London';
+Выбирает все имена где city London
+
 
 
 
