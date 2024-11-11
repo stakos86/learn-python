@@ -8,6 +8,11 @@ SELECT - ВЫБЕРИ
 from - из
 employees - таблицы с именем employees
 
+DISTINCT убирает повторяющиеся значения
+
+SELECT DISTINCT city
+FROM employees;
+
 
 
 
